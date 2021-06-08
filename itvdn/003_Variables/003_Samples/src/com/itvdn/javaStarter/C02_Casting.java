@@ -13,6 +13,7 @@ public class C02_Casting {
 
         System.out.println("b = " + b);
 
+
         // Неявное преобразование значения типа - int в тип float. (преобразование целого типа в вещественный)
         int c = 255;
         float d = 0f;

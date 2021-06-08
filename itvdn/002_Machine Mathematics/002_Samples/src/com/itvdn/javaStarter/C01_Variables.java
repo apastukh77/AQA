@@ -9,5 +9,6 @@ public class C01_Variables {
         // На 11-й строке, выводим значение переменной - a, на экран.
 
         System.out.println(a);
+
     }
 }
