@@ -4,7 +4,7 @@
     <list default="true" id="105d7601-5241-4b8e-ba94-98df67350202" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/NewStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/NewStarter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -545,8 +545,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_ConstantFinal" />
         <item itemvalue="Application.C02_Casting" />
+        <item itemvalue="Application.C01_ConstantFinal" />
         <item itemvalue="Application.C13_Input" />
         <item itemvalue="Application.C12_TypesComparison" />
         <item itemvalue="Application.C11_StringFormat" />
@@ -590,6 +590,14 @@
       <workItem from="1466265027422" duration="19000" />
       <workItem from="1466265924142" duration="7000" />
     </task>
+    <task id="LOCAL-00001" summary="Hello was added">
+      <created>1623186799566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623186799566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -646,6 +654,10 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello was added" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
