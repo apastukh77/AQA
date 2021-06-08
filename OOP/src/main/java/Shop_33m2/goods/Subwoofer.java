@@ -1,0 +1,8 @@
+package Shop_33m2.goods;
+
+public class Subwoofer extends ElectronicDevice{
+
+    public Subwoofer(String name){
+        super(name);
+    }
+}
