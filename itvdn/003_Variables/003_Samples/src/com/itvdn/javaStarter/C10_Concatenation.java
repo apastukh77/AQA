@@ -2,7 +2,6 @@ package com.itvdn.javaStarter;
 
 public class C10_Concatenation {
     // Сцепление строк. (Конкатенация)
-
     public static void main(String[] args) {
         // 1 вариант.
         String word1 = "Привет ";

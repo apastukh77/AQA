@@ -1,6 +1,6 @@
 package com.itvdn.javaStarter;
 
-public class C08_Assignment {
+public class  C08_Assignment {
     public static void main(String[] args) {
         // ПРАВИЛО:
         // Все арифметические операции производимые над двумя значениями типа (byte, short)
@@ -13,7 +13,7 @@ public class C08_Assignment {
         //variable1 = (byte)variable1 + 5; // ОШИБКА: Происходит преобразование типа byte в тип byte,  раньше выполнения операции сложения.
 
         variable1 = (byte)(variable1 + 5); // Громоздкое решение.
-
+       // System.out.println(variable1);
         variable1 += 5;                    // Элегантное решение.
 
         variable1 += 5000;               // Сужение типа.

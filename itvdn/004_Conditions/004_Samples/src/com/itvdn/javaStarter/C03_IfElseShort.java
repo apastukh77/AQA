@@ -8,6 +8,7 @@ public class C03_IfElseShort {
 
         if (a < b)
             System.out.println("a меньше b");      // Ветвь 1
+            //System.out.println("a меньше b");      // Ветвь 1
         else
             System.out.println("a не меньше b");   // Ветвь 2
     }

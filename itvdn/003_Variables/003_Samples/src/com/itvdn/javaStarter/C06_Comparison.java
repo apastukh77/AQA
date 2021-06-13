@@ -14,20 +14,19 @@ public class C06_Comparison {
         System.out.println(result);
 
         // Less than or equal to
-        result = value1 <= value2;
+        result = value1 <= value2; //< =
         System.out.println(result);
 
         // Greater than or equal to
-        result = value1 >= value2;
+        result = value1 >= value2; // > =
         System.out.println(result);
 
         // Equals
-        result = value1 == value2;
+        result = value1 == value2;// = =
         System.out.println(result);
 
         // Not equals
-        result = value1 != value2;
+        result = value1 != value2; //! =
         System.out.println(result);
     }
-
 }

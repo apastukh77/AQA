@@ -3,7 +3,6 @@ package com.itvdn.javaStarter;
 public class C03_Arithmetic {
 
     // Арифметические операторы (C03_Arithmetic Operators): +, -, *, /, %
-
     public static void main(String[] args) {
         // Addition (+)
         byte summand1 = 1, summand2 = 2; // Множественное объявление.
@@ -33,9 +32,8 @@ public class C03_Arithmetic {
 
         System.out.println(quotient);
 
-        // Remainder after division (%)
+        // Remainder after division (%) Остаток от деления
         remainder = dividend % divisor;
-
         System.out.println(remainder);
     }
 }

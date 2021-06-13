@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="105d7601-5241-4b8e-ba94-98df67350202" name="Default" comment="Hello was added2">
+      <change beforePath="$PROJECT_DIR$/../../../OOP apastukh/target/classes/lecture33_task1_3/FileContainsInfoAboutText.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP apastukh/target/classes/lecture33_task1_3/FileContainsInfoAboutText.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C01_ConstantFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C01_ConstantFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C02_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C02_Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C03_Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C03_Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C04_MathPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C04_MathPow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C05_MathSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C05_MathSqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C06_Comparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C06_Comparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C07_IncDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C07_IncDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C08_Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C08_Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C09_LocalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C09_LocalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C10_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C10_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C11_StringFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C11_StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C12_TypesComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C12_TypesComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C13_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itvdn/javaStarter/C13_Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,18 +141,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../002_Machine Mathematics/002_Samples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Аспирантура\CyberBionic Java\Java Starter Source_new\003_Variables\003_Samples\src\ua\com\webcamp\javaStarter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_ConstantFinal">
+  <component name="RunManager" selected="Application.C12_TypesComparison">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -427,8 +442,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_StringFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itvdn.javaStarter.C11_StringFormat" />
+    <configuration name="C06_Comparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itvdn.javaStarter.C06_Comparison" />
       <module name="003_Samples" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -535,19 +550,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.C11_StringFormat" />
       <item itemvalue="Application.C12_TypesComparison" />
       <item itemvalue="Application.C13_Input" />
       <item itemvalue="Application.C01_ConstantFinal" />
       <item itemvalue="Application.C02_Casting" />
+      <item itemvalue="Application.C06_Comparison" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C12_TypesComparison" />
+        <item itemvalue="Application.C06_Comparison" />
         <item itemvalue="Application.C02_Casting" />
         <item itemvalue="Application.C01_ConstantFinal" />
         <item itemvalue="Application.C13_Input" />
-        <item itemvalue="Application.C12_TypesComparison" />
-        <item itemvalue="Application.C11_StringFormat" />
       </list>
     </recent_temporary>
   </component>
@@ -645,7 +660,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

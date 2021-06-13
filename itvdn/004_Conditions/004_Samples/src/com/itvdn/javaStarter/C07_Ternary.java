@@ -12,7 +12,6 @@ public class C07_Ternary {
         // На 14 строке создаем переменную с именем login типа String и принимаем в нее ввод от пользователя
 
         String login = in.next();
-
         // На 18 строке переменной string присваиваем возвращаемое значение тернарного оператора
 
         string += login.equals("Admin") ? "Administrator" : "User";

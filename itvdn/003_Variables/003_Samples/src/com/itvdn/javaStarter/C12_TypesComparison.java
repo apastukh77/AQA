@@ -13,7 +13,7 @@ public class C12_TypesComparison {
         String c = "Hello";
         String d = "Hello";
         // result = c < a; // Сравнение значения типа int, со значением типа String - не допустимо.
-        result2 = c.equals(a);
+        result2 = c.equals(a); //строки сравнивают через equals
         System.out.println(result1);
         System.out.println(result2);
         System.out.println(c == d);
