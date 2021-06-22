@@ -6,9 +6,8 @@ import java.util.ArrayList;
  * @author Serhiy Dubovenko
  */
 public class Fibonchi {
-
     /*
-        Построитьчисловой ряд чисел фибоначчи испльзуя рекурсивную функцию.
+        Построитьчисловой ряд чисел фибоначчи используя рекурсивную функцию.
      */
     public static int printFibonachi (int number){
 
